@@ -1,0 +1,18 @@
+.h1{
+  font-family: cursive;
+  color: aliceblue;
+}
+.list{
+  background-color: pink;
+  width: 50vh;
+}
+body{
+  background: rgb(10,8,48);
+  background: linear-gradient(90deg, rgba(10,8,48,1) 0%, rgba(48,8,14,1) 52%, rgba(0,6,7,1) 100%);
+
+}
+.imgtag{
+  height: 5rem;
+  width: 5rem;
+  border-radius: 50%;
+}
